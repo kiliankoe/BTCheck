@@ -14,6 +14,7 @@
 		39729ED71C2017A000B50D99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39729ED51C2017A000B50D99 /* LaunchScreen.storyboard */; };
 		39729EE21C2017A000B50D99 /* BTCheckTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39729EE11C2017A000B50D99 /* BTCheckTests.swift */; };
 		39729EED1C2017A100B50D99 /* BTCheckUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39729EEC1C2017A100B50D99 /* BTCheckUITests.swift */; };
+		39729EFB1C20301B00B50D99 /* Coinbase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39729EFA1C20301B00B50D99 /* Coinbase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		39729EE81C2017A100B50D99 /* BTCheckUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BTCheckUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		39729EEC1C2017A100B50D99 /* BTCheckUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTCheckUITests.swift; sourceTree = "<group>"; };
 		39729EEE1C2017A100B50D99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39729EFA1C20301B00B50D99 /* Coinbase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coinbase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				39729ECC1C2017A000B50D99 /* AppDelegate.swift */,
 				39729ECE1C2017A000B50D99 /* ViewController.swift */,
+				39729EFA1C20301B00B50D99 /* Coinbase.swift */,
 				39729ED01C2017A000B50D99 /* Main.storyboard */,
 				39729ED31C2017A000B50D99 /* Assets.xcassets */,
 				39729ED51C2017A000B50D99 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				39729ECF1C2017A000B50D99 /* ViewController.swift in Sources */,
 				39729ECD1C2017A000B50D99 /* AppDelegate.swift in Sources */,
+				39729EFB1C20301B00B50D99 /* Coinbase.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
